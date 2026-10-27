@@ -11,7 +11,7 @@ It follows 13 stages in four phases:
 
 ## Install
 
-- **Claude.ai:** download `interactive-3d-portfolio.skill` from this repository, then add it under Settings → Capabilities → Skills.
+- **Claude.ai:** download `interactive-3d-portfolio.skill` from this repository, then upload it in the Skills section of your claude.ai settings.
 - **Claude Code:** copy the `interactive-3d-portfolio/` folder into `~/.claude/skills/`.
 
 Then ask Claude something like "I'm a teacher and I want a portfolio that feels like a cozy classroom you can walk around in."
